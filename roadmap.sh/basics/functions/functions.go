@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// simple function that returns an integeer
+// simple function that returns an integer
 func buy(amount int) int {
 	if amount >= 300 {
 		if amount != 300 {
